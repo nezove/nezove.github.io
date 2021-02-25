@@ -679,6 +679,7 @@ body {
 
 img {
     max-width: 100%;
+  margin-top: 132px;
     vertical-align: middle;
     display: inline-block
 }
